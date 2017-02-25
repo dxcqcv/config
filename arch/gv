@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# connect vpn
+sudo pon myVpn debug dump logfd 2 nodetach
+

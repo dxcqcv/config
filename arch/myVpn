@@ -1,0 +1,7 @@
+pty "pptp p1.hk3.flydidu.com --nolaunchpppd"
+name dxcqcv 
+remotename PPTP
+require-mppe-128
+usepeerdns
+file /etc/ppp/options
+ipparam myVpn 

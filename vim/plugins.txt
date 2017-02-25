@@ -1,0 +1,19 @@
+colorizer
+nerdtree
+vim-hybrid
+vim-stylus
+delimitMate
+syntastic
+  eslint
+vim-indent-guides
+youcompleteme
+  tern
+emmet-vim
+tagbar
+vim-javascript
+html5.vim
+tern_fo_vim
+vim-javascript-syntax
+nerdcommenter
+vim-airline
+vim-pug

@@ -21,6 +21,6 @@ vim-javascript
 html5.vim
 tern_fo_vim
 vim-javascript-syntax
-nerdcommenter
+nerdcommenter // use it with \cc and \cu
 vim-airline
 vim-pug

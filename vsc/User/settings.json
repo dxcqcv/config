@@ -1,5 +1,15 @@
 // Place your settings in this file to overwrite the default settings
 {
     "editor.fontSize": 22,
-    "files.autoSave": "onFocusChange"
-}
+    "editor.tabSize": 2,
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "editor.renderIndentGuides": true,
+    "editor.wordWrap": "on",
+    "files.autoSave": "onFocusChange",
+    "puglint.enable": true,
+    "window.zoomLevel": 1,
+    "git.enableSmartCommit": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "explorer.confirmDelete": false,
+  }

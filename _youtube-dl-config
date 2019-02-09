@@ -1,0 +1,8 @@
+-f mp4
+-o /download/share/net-videos/%(title)s.%(ext)s
+-r 1M
+--write-sub
+--write-auto-sub
+
+
+
